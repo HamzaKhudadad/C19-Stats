@@ -3,13 +3,13 @@
 ######
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 ![npm](https://img.shields.io/npm/v/npm)
-[![Generic badge](https://img.shields.io/badge/Frontend-React-Red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Frontend-React-SkyBlue.svg)](https://shields.io/)
 
 ## :arrow_right: Description
-#### Semester Project for Advance Web
-System that take various variable like CGPA,GAT, SOP e.t.c and predict chances of acceptance for different universities
-####
-Linear Regression to predict chances of acceptance, Node, Express backend and Angular Frontend with passportjs Authentication and session management.
+#### It's a Basic Assessment Task
+Task includes Fetching data from Api and Presenting that data, Configuring Redux to store state globally and Implementing Ant design Library for UI
+
+
 
 
 ## :arrow_up: How to Setup
@@ -17,12 +17,11 @@ Linear Regression to predict chances of acceptance, Node, Express backend and An
 
 **Step 2:** cd to the cloned repo:
 
-**Step 3:** cd to REST and hit _**npm install**_ in terminal:
+**Step 3:**  hit _**npm install**_ in terminal:
 
-**Step 4:** cd to AngularFrontEnd and install depedencies by _**npm install**_:
+
 
 ## :arrow_forward: How to Run App
-1. cd to the REST
-2. Run _**nodemon server**_ to run the back end
-3. cd to AngularFrontEnd
-4. run _**ng serve**_
+1. cd to the Project folder
+2. Run _**npm start**_ to run the app
+
